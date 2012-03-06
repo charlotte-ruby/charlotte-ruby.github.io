@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Announcements | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-03-05T16:43:09-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing Our New Sponsor - Engine Yard]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/11/05/announcing-our-new-sponsor-engine-yard/"/>
+    <updated>2009-11-05T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/11/05/announcing-our-new-sponsor-engine-yard</id>
+    <content type="html"><![CDATA[<p>I have great news everyone! <a href="http://www.engineyard.com">Engine Yard</a> has agreed to sponsor Charlotte.rb.</p>
+
+<p>So if you're around on Wednesdays, stop on in, learn something new, or show others what you got.</p>
+]]></content>
+  </entry>
+  
+</feed>

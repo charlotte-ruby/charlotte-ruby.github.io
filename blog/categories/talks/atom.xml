@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Talks | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/talks/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-03-05T16:43:09-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Aaron Bedra - Metrics Magic]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/02/16/aaron-bedra-metrics-magic/"/>
+    <updated>2010-02-16T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/02/16/aaron-bedra-metrics-magic</id>
+    <content type="html"><![CDATA[<p><a href="http://www.aaronbedra.com">Aaron Bedra</a> of <a href="http://thinkrelevance.com">Relevance</a> came down and spoke about static code analysis and the benefits it can have on the quality of your codebase. He talks about the differences and benefits of RCov, Flog, Flay, Roodi, and Reek.</p>
+
+<h1>Video</h1>
+
+<iframe src="http://player.vimeo.com/video/9483051" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>available on <a href="http://vimeo.com/9483051">vimeo</a></p>
+
+<h1>Slides</h1>
+
+<div style="width:425px" id="__ss_3195273"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/cltrb/metrics-magic" title="Aaron Bedra - Metrics Magic" target="_blank">Aaron Bedra - Metrics Magic</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/3195273" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/cltrb" target="_blank">CLTRB</a> </div> </div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sean Cribbs - Story Driven Development with Cucumber]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber/"/>
+    <updated>2010-01-13T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber</id>
+    <content type="html"><![CDATA[<p><a href="http://seancribbs.com">Sean Cribbs</a>, lead developer of Radiant CMS and co-founder of <a href="http://lowdownapp.com">Lowdown</a> gave a great talk this month called Story-Driven Development with Cucumber. <a href="http://twitter.com/seancribbs">Sean</a> gives a great tutorial on how Cucumber works as well as the benefits that go along with story-driven development. I've posted the talk as well as his slides here for anyone who wasn't able to make it or would like to see it again. Sorry for the <em>dark</em> video; It's hard keeping it dark enough for a projector while bright enough to film our speakers.</p>
+
+<h1>Video</h1>
+
+<iframe src="http://player.vimeo.com/video/8721145" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>available on <a href="http://vimeo.com/8721145">vimeo</a></p>
+
+<h1>Slides</h1>
+
+<div style="width:425px" id="__ss_2846880"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/seancribbs/story-driven-development-with-cucumber" title="Story Driven Development With Cucumber" target="_blank">Story Driven Development With Cucumber</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/2846880" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/seancribbs" target="_blank">Sean Cribbs</a> </div> </div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Scofield - Comics Is Hard]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard/"/>
+    <updated>2009-10-21T15:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/bscofield">Ben Scofield</a> from <a href="http://www.viget.com">Viget Labs</a> was nice enough to come down and give a talk to us last week. His talk goes into detail about how some problem domains do not map well to traditional relational databases. He also provides a lot of alternative ways to persist your data using technologies such as Redis, CouchDB, and MongoDB to name a few. I've post a video of the talk as well as Ben's slides for anyone who wasn't able to make it out.</p>
+
+<h1>Video</h1>
+
+<iframe src="http://player.vimeo.com/video/7165117" width="500" height="275" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>available on <a href="http://vimeo.com/7165117">vimeo</a></p>
+
+<h1>Slides</h1>
+
+<div style="width:425px" id="__ss_2226786"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/bscofield/charlotterb-comics-is-hard" title="Charlotte.rb - &quot;Comics&quot; Is Hard" target="_blank">Charlotte.rb - &quot;Comics&quot; Is Hard</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/2226786" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/bscofield" target="_blank">Ben Scofield</a> </div> </div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

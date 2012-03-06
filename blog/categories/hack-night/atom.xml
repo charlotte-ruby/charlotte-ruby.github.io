@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Hack Night | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/hack-night/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-03-05T16:43:09-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Night - May 11th]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2011/05/11/hack-night/"/>
+    <updated>2011-05-11T19:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2011/05/11/hack-night</id>
+    <content type="html"><![CDATA[<p>Come out and enjoy a great night of hacking code with fellow rubyists! We are meeting at <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=&amp;vps=5&amp;jsv=236a&amp;sll=35.232703,-80.825483&amp;sspn=0.00702,0.013937&amp;g=516+E+15th+St+Charlotte,+NC+28206&amp;ie=UTF8&amp;geocode=FTKcGQIddrMu-w&amp;split=0">Area 15</a> @ 7:00pm.</p>
+
+<p>We should have a representative outside. Send <a href="http://twitter.com/cltrb">@cltrb</a> a tweet if you can't find anyone.</p>
+
+<p>Hope to see you there!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Night]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/11/04/hack-night/"/>
+    <updated>2009-11-04T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/11/04/hack-night</id>
+    <content type="html"><![CDATA[<p>Mark your calendars, we'll circulate more details as the date gets closer. RSVP now.</p>
+
+<h1>Post Meetup Social</h1>
+
+<p>We'll be meeting up at Morehead Tavern after the hacknight. It's only about a mile from Enventys and I hear they have pool tables if anyone is interested. <a href="http://bit.ly/26KTQX">(location)</a></p>
+]]></content>
+  </entry>
+  
+</feed>
