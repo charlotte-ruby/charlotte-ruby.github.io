@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: NoSQL | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/nosql/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-03-05T16:43:09-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Scofield - Comics Is Hard]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard/"/>
+    <updated>2009-10-21T15:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/bscofield">Ben Scofield</a> from <a href="http://www.viget.com">Viget Labs</a> was nice enough to come down and give a talk to us last week. His talk goes into detail about how some problem domains do not map well to traditional relational databases. He also provides a lot of alternative ways to persist your data using technologies such as Redis, CouchDB, and MongoDB to name a few. I've post a video of the talk as well as Ben's slides for anyone who wasn't able to make it out.</p>
+
+<h1>Video</h1>
+
+<iframe src="http://player.vimeo.com/video/7165117" width="500" height="275" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>available on <a href="http://vimeo.com/7165117">vimeo</a></p>
+
+<h1>Slides</h1>
+
+<div style="width:425px" id="__ss_2226786"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/bscofield/charlotterb-comics-is-hard" title="Charlotte.rb - &quot;Comics&quot; Is Hard" target="_blank">Charlotte.rb - &quot;Comics&quot; Is Hard</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/2226786" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/bscofield" target="_blank">Ben Scofield</a> </div> </div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

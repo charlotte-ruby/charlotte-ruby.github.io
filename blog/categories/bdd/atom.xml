@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: BDD | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/bdd/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-03-05T16:43:09-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sean Cribbs - Story Driven Development with Cucumber]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber/"/>
+    <updated>2010-01-13T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber</id>
+    <content type="html"><![CDATA[<p><a href="http://seancribbs.com">Sean Cribbs</a>, lead developer of Radiant CMS and co-founder of <a href="http://lowdownapp.com">Lowdown</a> gave a great talk this month called Story-Driven Development with Cucumber. <a href="http://twitter.com/seancribbs">Sean</a> gives a great tutorial on how Cucumber works as well as the benefits that go along with story-driven development. I've posted the talk as well as his slides here for anyone who wasn't able to make it or would like to see it again. Sorry for the <em>dark</em> video; It's hard keeping it dark enough for a projector while bright enough to film our speakers.</p>
+
+<h1>Video</h1>
+
+<iframe src="http://player.vimeo.com/video/8721145" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>available on <a href="http://vimeo.com/8721145">vimeo</a></p>
+
+<h1>Slides</h1>
+
+<div style="width:425px" id="__ss_2846880"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/seancribbs/story-driven-development-with-cucumber" title="Story Driven Development With Cucumber" target="_blank">Story Driven Development With Cucumber</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/2846880" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/seancribbs" target="_blank">Sean Cribbs</a> </div> </div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
