@@ -4,7 +4,7 @@
   <title><![CDATA[CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-03-05T21:16:56-05:00</updated>
+  <updated>2012-03-06T00:09:33-05:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Now Running on Octopress]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/03/05/now-running-on-octopress/"/>
+    <updated>2012-03-05T14:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/03/05/now-running-on-octopress</id>
+    <content type="html"><![CDATA[<p>Our site is now powered by <a href="http://octopress.com">Octopress</a>. Thanks to Flaviu for helping me move this site over from it&#8217;s previous implementation to a <a href="http://pages.github.com">GitHub Pages</a> powered one. You can learn move about what Octopress is <a href="http://octopress.com/docs">here</a>. If you have ideas for content, links, or even design chops to help improve the site, we welcome any <a href="http://github.com/charlotte-ruby/charlotte-ruby.github.com">contributions</a>. Send us a pull request or tweet <a href="https://twitter.com/cltrb">@cltrb</a> for more info.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hack Night - May 11th]]></title>
