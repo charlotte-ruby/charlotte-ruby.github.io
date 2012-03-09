@@ -205,6 +205,8 @@
       var results = resp.results;
       var str = '';
 
+      X = results;
+
       for(var i in results) {
         var result = results[i];
         var event_url = result.event_url;
@@ -225,7 +227,7 @@
     var head    = document.getElementsByTagName('head')[0];
     var script  = document.createElement('script');
     script.type = 'text/javascript';
-    script.src  = 'https://api.meetup.com/2/events?key=663426684b416b314876447a105b396e&sign=true&page=1&group_id=1229892&callback=processMeetupEvents';
+    script.src  = 'https://api.meetup.com/2/events?key=663426684b416b314876447a105b396e&sign=true&page=5&group_id=1229892&callback=processMeetupEvents';
 
     head.appendChild(script);
   });
