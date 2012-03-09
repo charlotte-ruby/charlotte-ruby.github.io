@@ -100,4 +100,6 @@ facebook_like: false
 
 # Meetup.com
 meetup_group_id: 1229892
+meetup_event_limit: 5
+
 
