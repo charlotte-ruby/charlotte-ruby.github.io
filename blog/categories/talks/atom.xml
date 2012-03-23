@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Talks | CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-03-09T10:44:04-05:00</updated>
+  <updated>2012-03-23T17:01:14-04:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Richard Schneeman - The 12 Factor App]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app/"/>
+    <updated>2012-03-22T15:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app</id>
+    <content type="html"><![CDATA[<p><a href="http://schneems.com">Richard Schneeman</a>, Ruby Evangelist at Heroku, stopped by to talk about the <a href="http://www.12factor.net">Twelve-Factor App</a> method for building software applications. During the talk he covers bootstrapping, deploying, monitoring, and scaling up an application. <a href="https://twitter.com/schneems">@scheems</a> covers how to develop these apps locally, store credentials securely in the cloud, and leverage existing services to use on <a href="http://www.heroku.com">Heroku</a>.</p>
+
+<p><a href="http://twitpic.com/8zj4lk"><img src="https://d3j5vwomefv46c.cloudfront.net/photos/large/543408392.jpg?key=1024764&Expires=1332536632&Key-Pair-Id=APKAIYVGSUJFNRFZBBTA&Signature=KPhozH1fAG0XI2MrtfmLTKjKjUyJzEUx0-Pp7Jazv7wJYUeSYz5d5r5HPqIPKJc0wTLNWV45ZBz3E~4~-~tWGiStl6NM7ua-nbj3drQxpU9egHcgp5A4hU-oswzmzbKb2Zp2G5YoLFM1aPwNtm3eASTI6Rzqv7irMGXwRTMfrYU_" width="300" height="300"/></a></p>
+
+
+
+
+<p><a href="http://occipital.com/images/viewer/QGVLhr_crop.jpg"><img src="http://occipital.com/images/viewer/QGVLhr_crop.jpg" width="300" height="300"/></a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Aaron Bedra - Metrics Magic]]></title>
