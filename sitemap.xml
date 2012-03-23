@@ -18,7 +18,7 @@
         <loc>
             http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber/
         </loc>
-        <lastmod>2012-03-05T16:24:58-05:00</lastmod>
+        <lastmod>2012-03-23T16:28:14-04:00</lastmod>
     </url>
     <url>
         <loc>
@@ -39,15 +39,21 @@
         <lastmod>2012-03-06T00:08:05-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app/
+        </loc>
+        <lastmod>2012-03-23T17:00:56-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://charlotte-ruby.github.com/about/</loc>
         <lastmod>2012-03-05T15:56:25-05:00</lastmod>
     </url>
     <url>
         <loc>http://charlotte-ruby.github.com/blog/archives/</loc>
-        <lastmod>2012-03-06T00:08:05-05:00</lastmod>
+        <lastmod>2012-03-23T17:00:56-04:00</lastmod>
     </url>
     <url>
         <loc>http://charlotte-ruby.github.com/</loc>
-        <lastmod>2012-03-06T00:08:05-05:00</lastmod>
+        <lastmod>2012-03-23T17:00:56-04:00</lastmod>
     </url>
 </urlset>
