@@ -4,7 +4,7 @@
   <title><![CDATA[CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-03-23T17:01:14-04:00</updated>
+  <updated>2012-03-24T16:27:44-04:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -26,6 +26,11 @@
 
 
 <p><a href="http://occipital.com/images/viewer/QGVLhr_crop.jpg"><img src="http://occipital.com/images/viewer/QGVLhr_crop.jpg" width="300" height="300"/></a></p>
+
+
+<p>Slides: <a href="http://speakerdeck.com/u/schneems/p/deploying-happiness-fighting-homelessness-hourschool-the-12factor-app">Deploying Happiness &amp; Fighting Homelessness</a></p>
+
+<script src="http://speakerdeck.com/embed/4f2221ffa0a84d0022014a50.js"></script>
 
 ]]></content>
   </entry>
