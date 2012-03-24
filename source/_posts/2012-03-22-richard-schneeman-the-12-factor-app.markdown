@@ -12,3 +12,7 @@ categories: [Talks]
 <p><a href="http://twitpic.com/8zj4lk"><img src="https://d3j5vwomefv46c.cloudfront.net/photos/large/543408392.jpg?key=1024764&Expires=1332536632&Key-Pair-Id=APKAIYVGSUJFNRFZBBTA&Signature=KPhozH1fAG0XI2MrtfmLTKjKjUyJzEUx0-Pp7Jazv7wJYUeSYz5d5r5HPqIPKJc0wTLNWV45ZBz3E~4~-~tWGiStl6NM7ua-nbj3drQxpU9egHcgp5A4hU-oswzmzbKb2Zp2G5YoLFM1aPwNtm3eASTI6Rzqv7irMGXwRTMfrYU_" width="300" height="300"/></a></p>
 
 <p><a href="http://occipital.com/images/viewer/QGVLhr_crop.jpg"><img src="http://occipital.com/images/viewer/QGVLhr_crop.jpg" width="300" height="300"/></a></p>
+
+Slides: [Deploying Happiness & Fighting Homelessness](http://speakerdeck.com/u/schneems/p/deploying-happiness-fighting-homelessness-hourschool-the-12factor-app)
+
+<script src="http://speakerdeck.com/embed/4f2221ffa0a84d0022014a50.js"></script>
