@@ -20,6 +20,8 @@ Offical Ruby Quickstart: [ruby-lang.org](http://www.ruby-lang.org/en/documentati
 Tutorials
 ---------
 
+RailsApps tutorials and guides [railsapps.github.com/rails.html](http://railsapps.github.com/rails.html)
+
 Excellent Beginner and Advanced level tutorials: [tutorials.jumpstartlab.com](http://tutorials.jumpstartlab.com)
 
 [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
