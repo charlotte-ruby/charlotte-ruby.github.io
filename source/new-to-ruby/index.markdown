@@ -17,6 +17,8 @@ Try Ruby in your browser, no installing required: [tryruby.org](http://tryruby.o
 
 Offical Ruby Quickstart: [ruby-lang.org](http://www.ruby-lang.org/en/documentation/quickstart)
 
+
+List of Puzzles, Ruby, and Rails resources: [iwanttolearnruby.com](http://iwanttolearnruby.com)
 Tutorials
 ---------
 
