@@ -4,7 +4,7 @@
   <title><![CDATA[CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-04-25T17:08:44-04:00</updated>
+  <updated>2012-06-13T02:23:56-04:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps and Remote Pairing]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing/"/>
+    <updated>2012-05-31T15:24:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing</id>
+    <content type="html"><![CDATA[<p>A two-fisted presentation this month!</p>
+
+<p>First up was <a href="http://jimvanfleet.com">Jim Van Fleet</a> of <a href="http://otherscreen.com">@otherscreen</a> and <a href="http://mocksup.com">@mocksup</a> fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using <a href="http://www.opscode.com/chef">Chef</a> and <a href="http://vagrantup.com">Vagrant</a>.</p>
+
+<p>Our other presentation was by <a href="http://ben.vandgrift.com">Ben Vangrift</a> from <a href="http://thinkrelevance.com">Revelance</a>. Ben went over the benefits of pair programming and how to setup a shared environment that&#8217;ll work in either a co-located or remote setup.</p>
+
+<p><a href="http://ben.vandgrift.com/talks/remote-pairing.pdf">Slides</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Richard Schneeman - The 12 Factor App]]></title>
