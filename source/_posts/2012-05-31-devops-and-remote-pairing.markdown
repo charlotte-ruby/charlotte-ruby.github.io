@@ -15,3 +15,5 @@ Our other presentation was by [Ben Vangrift](http://ben.vandgrift.com) from [Rev
 
 [Slides](http://ben.vandgrift.com/talks/remote-pairing.pdf)
 
+<a href="http://twitpic.com/9w1g8z" title="Jim and Ben doing a tmux demo"><img src="http://twitpic.com/show/thumb/9w1g8z.jpg" width="150" height="150" alt="Jim and Ben doing a tmux demo"></a>
+
