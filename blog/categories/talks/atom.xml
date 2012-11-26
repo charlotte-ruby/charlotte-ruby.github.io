@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talks | CLT.rb]]></title>
   <link href="http://charlotte-ruby.github.com/blog/categories/talks/atom.xml" rel="self"/>
   <link href="http://charlotte-ruby.github.com/"/>
-  <updated>2012-11-25T23:23:57-05:00</updated>
+  <updated>2012-11-25T23:28:04-05:00</updated>
   <id>http://charlotte-ruby.github.com/</id>
   <author>
     <name><![CDATA[Charlotte Rubyists]]></name>
@@ -25,6 +25,15 @@
 <h2>Slides</h2>
 
 <p>available at <a href="https://speakerdeck.com/statonjr/hypermedia-apis-with-webmachine-and-roar">speackerdeck</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Justin Gehtland: Never Settle]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle/"/>
+    <updated>2012-10-17T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle</id>
+    <content type="html"><![CDATA[<p><a href="http://twitpic.com/b54lp0" title="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"><img src="http://twitpic.com/show/thumb/b54lp0.jpg" width="150" height="150" alt="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"></a></p>
 ]]></content>
   </entry>
   
@@ -73,22 +82,6 @@
 <h2>Slides</h2>
 
 <p>available <a href="http://ben.vandgrift.com/talks/remote-pairing.pdf">here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Richard Schneeman - the 12 Factor App]]></title>
-    <link href="http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app/"/>
-    <updated>2012-03-22T20:53:00-04:00</updated>
-    <id>http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app</id>
-    <content type="html"><![CDATA[<p><a href="http://schneems.com/">Richard Schneeman</a>, Ruby Evangelist at Heroku, stopped by to talk about the <a href="http://www.12factor.net/">Twelve-Factor App</a> method for building software applications. During the talk he covers bootstrapping, deploying, monitoring, and scaling up an application. <a href="https://twitter.com/schneems">@scheems</a> covers how to develop these apps locally, store credentials securely in the cloud, and leverage existing services to use on Heroku.</p>
-
-<p><a href="http://twitpic.com/8zj4lk" title="Here's @schneems finishing up his presentation.  Thanks ... on Twitpic"><img src="http://twitpic.com/show/thumb/8zj4lk.jpg" width="150" height="150" alt="Here's @schneems finishing up his presentation.  Thanks ... on Twitpic"></a>
-<a href="http://occipital.com/images/viewer/QGVLhr_crop.jpg"><img src="http://occipital.com/images/viewer/QGVLhr_crop.jpg" width="300" height="300"></a></p>
-
-<h2>Slides</h2>
-
-<p>available on <a href="http://speakerdeck.com/u/schneems/p/deploying-happiness-fighting-homelessness-hourschool-the-12factor-app">speakerdeck</a></p>
 ]]></content>
   </entry>
   
