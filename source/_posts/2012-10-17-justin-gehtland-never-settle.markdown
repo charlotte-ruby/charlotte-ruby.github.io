@@ -4,7 +4,7 @@ title: "Justin Gehtland: Never Settle"
 date: 2012-10-17
 author: Matt McMahand
 comments: true
-categories: 
+categories: talks
 ---
 
 
