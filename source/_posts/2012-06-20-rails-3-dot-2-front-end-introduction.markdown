@@ -4,7 +4,7 @@ title: "Rails 3.2 Front-End Introduction"
 author: Matt McMahand
 date: 2012-06-20
 comments: true
-categories: 
+categories: talks
 ---
 
 Ben is back again this month to do a whirlwind tour of the Rails 3 front-end. He covers form basics, common pitfalls, scss, coffeescript, and how these new features tie into the asset pipeline. The group also discussed their favorite gems for building simple backend admin interfaces like Formtastic and ActiveAdmin.

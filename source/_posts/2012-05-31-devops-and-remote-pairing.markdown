@@ -4,7 +4,7 @@ title: "DevOps and Remote Pairing"
 author: Matt McMahnad
 date: 2012-05-31
 comments: true
-categories: 
+categories: talks
 ---
 
 A two-fisted presentation this month!
