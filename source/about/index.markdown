@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "about"
-date: 2012-11-25 20:45
 author: Matt McMahand 
 comments: false
 sharing: true
-footer: true
+footer: false
 ---
 
 You’ve reached the home of the Charlotte Ruby Users Group or cltrb for short. This site is currently a work in progress and is actively being developed by cltrb.
