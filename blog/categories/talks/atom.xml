@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: talks | CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/blog/categories/talks/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2012-11-25T23:47:33-05:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[Charlotte Rubyists]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hypermedia APIs with webmachine and ROAR]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/11/14/hypermedia-apis-with-webmachine-and-roar/"/>
+    <updated>2012-11-14T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/11/14/hypermedia-apis-with-webmachine-and-roar</id>
+    <content type="html"><![CDATA[<p><a href="http://www.twitter.com/statonjr">Larry Stanton Jr</a> of Hendrick Motorsports gave a talk about HyperMedia APIs. He covered what it is, the benefits of designing such a system, and how to utilize frameworks such as <a href="https://github.com/basho/webmachine">Webmachine</a> to create RESTful applications.</p>
+
+<p><a href="http://twitpic.com/bgj9da" title="Big thanks to @statonjr for talking about Webmachine and ROAR... on Twitpic"><img src="http://twitpic.com/show/thumb/bgj9da.jpg" width="150" height="150" alt="Big thanks to @statonjr for talking about Webmachine and ROAR... on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available at <a href="https://speakerdeck.com/statonjr/hypermedia-apis-with-webmachine-and-roar">speackerdeck</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Justin Gehtland: Never Settle]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle/"/>
+    <updated>2012-10-17T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle</id>
+    <content type="html"><![CDATA[<p><a href="http://twitpic.com/b54lp0" title="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"><img src="http://twitpic.com/show/thumb/b54lp0.jpg" width="150" height="150" alt="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Rails View: The Junk Drawer Grows Up]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/10/03/the-rails-view-the-junk-drawer-grows-up/"/>
+    <updated>2012-10-03T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/10/03/the-rails-view-the-junk-drawer-grows-up</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/boboroshi">John Athayde</a>, author of <a href="http://www.therailsview.com">The Rails View</a> was kind enough to stop by and talk about Rails views. He covered 10 simple rules you can follow immediately to transform the way you write, think, and feel about Rails views. He also showed cutting edge techniques with SCSS, SVG imagery, and how to gemify your designs so they can be used easier across multiple apps.</p>
+
+<p><a href="http://twitpic.com/bgj75o" title="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"><img src="http://twitpic.com/show/thumb/bgj75o.jpg" width="150" height="150" alt="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"></a>
+<a href="http://twitpic.com/bgj7ic" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/bgj7ic.jpg" width="150" height="150" alt="Share photos on twitter with Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 3.2 Front-End Introduction]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/06/20/rails-3-dot-2-front-end-introduction/"/>
+    <updated>2012-06-20T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/06/20/rails-3-dot-2-front-end-introduction</id>
+    <content type="html"><![CDATA[<p>Ben is back again this month to do a whirlwind tour of the Rails 3 front-end. He covers form basics, common pitfalls, scss, coffeescript, and how these new features tie into the asset pipeline. The group also discussed their favorite gems for building simple backend admin interfaces like Formtastic and ActiveAdmin.</p>
+
+<p><a href="http://twitpic.com/a1wnbk" title="Ben talking about page caching on Twitpic"><img src="http://twitpic.com/show/thumb/a1wnbk.jpg" width="150" height="150" alt="Ben talking about page caching on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available <a href="http://ben.vandgrift.com/talks/rails-front.pdf">here</a></p>
+
+<p>If you’re interested in contributing to improve ActiveAdmin, it’s also being featured as the first project in the <a href="http://rubyosc.com/">Ruby OpenSource Challenge</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps and Remote Pairing]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing/"/>
+    <updated>2012-05-31T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing</id>
+    <content type="html"><![CDATA[<p>A two-fisted presentation this month!</p>
+
+<p>First up was <a href="http://jimvanfleet.com/">Jim Van Fleet</a> of <a href="http://otherscreen.com/">@otherscreen</a> and <a href="http://mocksup.com/">@mocksup</a> fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using <a href="http://www.opscode.com/chef">Chef</a> and <a href="http://vagrantup.com/">Vagrant</a>.</p>
+
+<p>Our other presentation was by <a href="http://ben.vandgrift.com/">Ben Vangrift</a> from <a href="http://thinkrelevance.com/">Revelance</a>. Ben went over the benefits of pair programming and how to setup a shared environment that’ll work in either a co-located or remote setup.</p>
+
+<p><a href="http://twitpic.com/9w1g8z" title="Jim and Ben doing a tmux demo"><img src="http://twitpic.com/show/thumb/9w1g8z.jpg" width="150" height="150" alt="Jim and Ben doing a tmux demo"></a></p>
+
+<h2>Slides</h2>
+
+<p>available <a href="http://ben.vandgrift.com/talks/remote-pairing.pdf">here</a></p>
+]]></content>
+  </entry>
+  
+</feed>
