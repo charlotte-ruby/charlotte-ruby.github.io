@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[CLT.rb]]></title>
+  <link href="http://charlotte-ruby.github.com/atom.xml" rel="self"/>
+  <link href="http://charlotte-ruby.github.com/"/>
+  <updated>2017-03-13T23:28:55-04:00</updated>
+  <id>http://charlotte-ruby.github.com/</id>
+  <author>
+    <name><![CDATA[Charlotte Rubyists]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Night]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2013/02/03/hack-night/"/>
+    <updated>2013-02-03T19:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2013/02/03/hack-night</id>
+    <content type="html"><![CDATA[<p>New to Ruby? Want to help a newbie? Got a new project or an existing one you&#8217;d like to share with the group? Maybe you just like being around Rubyists and working on your own stuff. If any of these ring true, come check us out at the beginning of every month.</p>
+
+<p><a href="http://twitpic.com/c2lld9" title="Awesome turnout for hack night! on Twitpic"><img src="http://twitpic.com/show/thumb/c2lld9.jpg" width="150" height="150" alt="Awesome turnout for hack night! on Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Skynet Infrastructure]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2013/01/16/skynet-infrastructure/"/>
+    <updated>2013-01-16T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2013/01/16/skynet-infrastructure</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/_toady00">Brandon Dennis</a> gave a talk on how to automator your infrastucture using <a href="http://www.opscode.com/chef">Chef</a>.</p>
+
+<p><a href="http://twitpic.com/c2ljl9" title="Thanks to Brandon for presenting on server automation with Chef on Twitpic"><img src="http://twitpic.com/show/thumb/c2ljl9.jpg" width="150" height="150" alt="Thanks to Brandon for presenting on server automation with Chef on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="https://speakerdeck.com/toady00/skynet-infrastructure-opscode-chef">speakerdeck</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hypermedia APIs with webmachine and ROAR]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/11/14/hypermedia-apis-with-webmachine-and-roar/"/>
+    <updated>2012-11-14T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/11/14/hypermedia-apis-with-webmachine-and-roar</id>
+    <content type="html"><![CDATA[<p><a href="http://www.twitter.com/statonjr">Larry Stanton Jr</a> of Hendrick Motorsports gave a talk about HyperMedia APIs. He covered what it is, the benefits of designing such a system, and how to utilize frameworks such as <a href="https://github.com/basho/webmachine">Webmachine</a> to create RESTful applications.</p>
+
+<p><a href="http://twitpic.com/bgj9da" title="Big thanks to @statonjr for talking about Webmachine and ROAR... on Twitpic"><img src="http://twitpic.com/show/thumb/bgj9da.jpg" width="150" height="150" alt="Big thanks to @statonjr for talking about Webmachine and ROAR... on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available at <a href="https://speakerdeck.com/statonjr/hypermedia-apis-with-webmachine-and-roar">speackerdeck</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hacking CORS]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/11/05/hacking-cors/"/>
+    <updated>2012-11-05T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/11/05/hacking-cors</id>
+    <content type="html"><![CDATA[<p>Tonight we hacked on CORS!</p>
+
+<p><a href="http://twitpic.com/bgj825" title="Hacking on CORS tonight! on Twitpic"><img src="http://twitpic.com/show/thumb/bgj825.jpg" width="150" height="150" alt="Hacking on CORS tonight! on Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Justin Gehtland: Never Settle]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle/"/>
+    <updated>2012-10-17T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/10/17/justin-gehtland-never-settle</id>
+    <content type="html"><![CDATA[<p><a href="http://twitpic.com/b54lp0" title="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"><img src="http://twitpic.com/show/thumb/b54lp0.jpg" width="150" height="150" alt="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Rails View: The Junk Drawer Grows Up]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/10/03/the-rails-view-the-junk-drawer-grows-up/"/>
+    <updated>2012-10-03T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/10/03/the-rails-view-the-junk-drawer-grows-up</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/boboroshi">John Athayde</a>, author of <a href="http://www.therailsview.com">The Rails View</a> was kind enough to stop by and talk about Rails views. He covered 10 simple rules you can follow immediately to transform the way you write, think, and feel about Rails views. He also showed cutting edge techniques with SCSS, SVG imagery, and how to gemify your designs so they can be used easier across multiple apps.</p>
+
+<p><a href="http://twitpic.com/bgj75o" title="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"><img src="http://twitpic.com/show/thumb/bgj75o.jpg" width="150" height="150" alt="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"></a>
+<a href="http://twitpic.com/bgj7ic" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/bgj7ic.jpg" width="150" height="150" alt="Share photos on twitter with Twitpic"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 3.2 Front-End Introduction]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/06/20/rails-3-dot-2-front-end-introduction/"/>
+    <updated>2012-06-20T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/06/20/rails-3-dot-2-front-end-introduction</id>
+    <content type="html"><![CDATA[<p>Ben is back again this month to do a whirlwind tour of the Rails 3 front-end. He covers form basics, common pitfalls, scss, coffeescript, and how these new features tie into the asset pipeline. The group also discussed their favorite gems for building simple backend admin interfaces like Formtastic and ActiveAdmin.</p>
+
+<p><a href="http://twitpic.com/a1wnbk" title="Ben talking about page caching on Twitpic"><img src="http://twitpic.com/show/thumb/a1wnbk.jpg" width="150" height="150" alt="Ben talking about page caching on Twitpic"></a></p>
+
+<h2>Slides</h2>
+
+<p>available <a href="http://ben.vandgrift.com/talks/rails-front.pdf">here</a></p>
+
+<p>If you’re interested in contributing to improve ActiveAdmin, it’s also being featured as the first project in the <a href="http://rubyosc.com/">Ruby OpenSource Challenge</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Github Training With It's Bspoke]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/06/14/github-training-with-its-bspoke/"/>
+    <updated>2012-06-14T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/06/14/github-training-with-its-bspoke</id>
+    <content type="html"><![CDATA[<p>Though not officially part of the clt.rb, our very own Jim Van Fleet organized an Advanced Git Training session with the Github guys, hosted graciously by <a href="http://knowclassic.com/">Classic Graphics</a>. Tim Berglund (@tlberglund) and Adam Roben (@aroben) taught about a bunch of advanced and underused features of git as well as showing us how to get our Windows-only friends using source control with <a href="http://windows.github.com/">Github for Windows</a>. More importantly, Github hosted a drinkup at the <a href="http://www.beerknurd.com/">Flying Saucer</a> immediately afterward.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DevOps and Remote Pairing]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing/"/>
+    <updated>2012-05-31T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/05/31/devops-and-remote-pairing</id>
+    <content type="html"><![CDATA[<p>A two-fisted presentation this month!</p>
+
+<p>First up was <a href="http://jimvanfleet.com/">Jim Van Fleet</a> of <a href="http://otherscreen.com/">@otherscreen</a> and <a href="http://mocksup.com/">@mocksup</a> fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using <a href="http://www.opscode.com/chef">Chef</a> and <a href="http://vagrantup.com/">Vagrant</a>.</p>
+
+<p>Our other presentation was by <a href="http://ben.vandgrift.com/">Ben Vangrift</a> from <a href="http://thinkrelevance.com/">Revelance</a>. Ben went over the benefits of pair programming and how to setup a shared environment that’ll work in either a co-located or remote setup.</p>
+
+<p><a href="http://twitpic.com/9w1g8z" title="Jim and Ben doing a tmux demo"><img src="http://twitpic.com/show/thumb/9w1g8z.jpg" width="150" height="150" alt="Jim and Ben doing a tmux demo"></a></p>
+
+<h2>Slides</h2>
+
+<p>available <a href="http://ben.vandgrift.com/talks/remote-pairing.pdf">here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Richard Schneeman - the 12 Factor App]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app/"/>
+    <updated>2012-03-22T20:53:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/03/22/richard-schneeman-the-12-factor-app</id>
+    <content type="html"><![CDATA[<p><a href="http://schneems.com/">Richard Schneeman</a>, Ruby Evangelist at Heroku, stopped by to talk about the <a href="http://www.12factor.net/">Twelve-Factor App</a> method for building software applications. During the talk he covers bootstrapping, deploying, monitoring, and scaling up an application. <a href="https://twitter.com/schneems">@scheems</a> covers how to develop these apps locally, store credentials securely in the cloud, and leverage existing services to use on Heroku.</p>
+
+<p><a href="http://twitpic.com/8zj4lk" title="Here's @schneems finishing up his presentation.  Thanks ... on Twitpic"><img src="http://twitpic.com/show/thumb/8zj4lk.jpg" width="150" height="150" alt="Here's @schneems finishing up his presentation.  Thanks ... on Twitpic"></a>
+<a href="http://occipital.com/images/viewer/QGVLhr_crop.jpg"><img src="http://occipital.com/images/viewer/QGVLhr_crop.jpg" width="300" height="300"></a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="http://speakerdeck.com/u/schneems/p/deploying-happiness-fighting-homelessness-hourschool-the-12factor-app">speakerdeck</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Now Running on Octopress]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2012/03/05/now-running-on-octopress/"/>
+    <updated>2012-03-05T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2012/03/05/now-running-on-octopress</id>
+    <content type="html"><![CDATA[<p>Our site is now powered by <a href="http://octopress.com/">Octopress</a>. Thanks to Flaviu for helping me move this site over from it’s previous implementation to a <a href="http://pages.github.com/">GitHub Pages</a> powered one. You can learn move about what Octopress is <a href="http://octopress.com/docs">here</a>. If you have ideas for content, links, or even design chops to help improve the site, we welcome any <a href="http://github.com/charlotte-ruby/charlotte-ruby.github.com">contributions</a>. Send us a pull request or tweet <a href="https://twitter.com/cltrb">@cltrb</a> for more info.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Night - May 11th]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2011/05/11/hack-night-may-11th/"/>
+    <updated>2011-05-11T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2011/05/11/hack-night-may-11th</id>
+    <content type="html"><![CDATA[<p>Come out and enjoy a great night of hacking code with fellow rubyists! We are meeting at <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=&amp;vps=5&amp;jsv=236a&amp;sll=35.232703,-80.825483&amp;sspn=0.00702,0.013937&amp;g=516+E+15th+St+Charlotte,+NC+28206&amp;ie=UTF8&amp;geocode=FTKcGQIddrMu-w&amp;split=0">Area 15</a> @ 7:00pm.</p>
+
+<p>We should have a representative outside. Send <a href="http://twitter.com/cltrb">@cltrb</a> a tweet if you can’t find anyone.</p>
+
+<p>Hope to see you there!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Aaron Bedra - Metrics Magic]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/02/16/aaron-bedra-metrics-magic/"/>
+    <updated>2010-02-16T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/02/16/aaron-bedra-metrics-magic</id>
+    <content type="html"><![CDATA[<p><a href="http://www.aaronbedra.com/">Aaron Bedra</a> of <a href="http://thinkrelevance.com/">Relevance</a> came down and spoke about static code analysis and the benefits it can have on the quality of your codebase. He talks about the differences and benefits of RCov, Flog, Flay, Roodi, and Reek.</p>
+
+<h2>Video</h2>
+
+<p>available on <a href="http://vimeo.com/9483051">vimeo</a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="http://www.slideshare.net/cltrb/metrics-magic">slideshare</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Catching Up: Organizational Meeting]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/02/05/catching-up-organizational-meeting/"/>
+    <updated>2010-02-05T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/02/05/catching-up-organizational-meeting</id>
+    <content type="html"><![CDATA[<p>From the Meetup <a href="http://www.meetup.com/charlotte-rb">group page</a></p>
+
+<p>[Jim] started organizing the group about six months ago with a meeting at Amelie’s Bakery. We’ve had a number of different Charlotte Rubyists come out to meetings since. I feel that the group is becoming quite a little success, and it’s all thanks to members like you.</p>
+
+<p>I’d like to have a casual, catch-up meeting to talk about what we’re all doing with Ruby, and what the group could be doing to better benefit its members. It’s quite possible that a computer will come out and there will be some hackery to accomplish a goal or two– it can’t be ruled out!</p>
+
+<p>Some of us met at the end of the last meeting and had such a good discussion about what we could do as a group that I wanted to make sure everyone had a chance to become involved. Just because you couldn’t make the meeting doesn’t mean you can’t participate. I’d love for more Rubyists to feel more at home in their community here, and that means talking to each other and helping each other. I think it’s time for some face to face time!</p>
+
+<p>I hope you’ll consider turning out. Please let me know if the night of the week is bad for you– note that this meeting is on Tuesday, not on Wednesday. Most people said they could make our holiday party on Tuesday, so I figured we’d try that.</p>
+
+<p>The meetup will be hosted at <a href="http://www.meetup.com/charlotte-rb/venue/843220/?eventId=12598547&amp;popup=true">Amélie’s French Bakery</a> on March 9th at 6:30PM. Please take the time to let us know if you can make it or not <a href="http://www.meetup.com/charlotte-rb/calendar/12598547">here</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sean Cribbs - Story Driven Development With Cucumber]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber/"/>
+    <updated>2010-01-13T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2010/01/13/sean-cribbs-story-driven-development-with-cucumber</id>
+    <content type="html"><![CDATA[<p><a href="http://seancribbs.com/">Sean Cribbs</a>, lead developer of Radiant CMS and co-founder of <a href="http://lowdownapp.com/">Lowdown</a> gave a great talk this month called Story-Driven Development with Cucumber. <a href="http://twitter.com/seancribbs">Sean</a> gives a great tutorial on how Cucumber works as well as the benefits that go along with story-driven development. I’ve posted the talk as well as his slides here for anyone who wasn’t able to make it or would like to see it again. Sorry for the dark video; It’s hard keeping it dark enough for a projector while bright enough to film our speakers.</p>
+
+<h2>Video</h2>
+
+<p>available on <a href="http://vimeo.com/8721145">vimeo</a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="http://www.slideshare.net/seancribbs/story-driven-development-with-cucumber">slideshare</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing Our New Sponsor - Engine Yard]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/11/05/announcing-our-new-sponsor-engine-yard/"/>
+    <updated>2009-11-05T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/11/05/announcing-our-new-sponsor-engine-yard</id>
+    <content type="html"><![CDATA[<p>I have great news everyone! Engine Yard has agreed to sponsor Charlotte.rb.
+So if you’re around on Wednesdays, stop on in, learn something new, or show others what you got.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Night]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/11/04/hack-night/"/>
+    <updated>2009-11-04T00:00:00-05:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/11/04/hack-night</id>
+    <content type="html"><![CDATA[<p>Mark your calendars, we’ll circulate more details as the date gets closer. RSVP now.</p>
+
+<h2>Post Meetup Social</h2>
+
+<p>We’ll be meeting up at Morehead Tavern after the hacknight. It’s only about a mile from Enventys and I hear they have pool tables if anyone is interested. ((location)[http://bit.ly/26KTQX])</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Scofield - Comics Is Hard]]></title>
+    <link href="http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard/"/>
+    <updated>2009-10-21T00:00:00-04:00</updated>
+    <id>http://charlotte-ruby.github.com/blog/2009/10/21/ben-scofield-comics-is-hard</id>
+    <content type="html"><![CDATA[<p><a href="http://twitter.com/bscofield">Ben Scofield</a> from <a href="http://www.viget.com/">Viget Labs</a> was nice enough to come down and give a talk to us last week. His talk goes into detail about how some problem domains do not map well to traditional relational databases. He also provides a lot of alternative ways to persist your data using technologies such as Redis, CouchDB, and MongoDB to name a few. I’ve post a video of the talk as well as Ben’s slides for anyone who wasn’t able to make it out.</p>
+
+<h2>Video</h2>
+
+<p>available on <a href="http://vimeo.com/7165117">Vimeo</a></p>
+
+<h2>Slides</h2>
+
+<p>available on <a href="http://www.slideshare.net/bscofield/charlotterb-comics-is-hard">slideshare</a></p>
+]]></content>
+  </entry>
+  
+</feed>
