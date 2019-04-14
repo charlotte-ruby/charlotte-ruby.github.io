@@ -22,9 +22,15 @@ At this point you should be able to see preview the site at
 
 ## Deploying changes
 
-    git checkout source
+If this is your first time you'll need run this:
+
+    be rake setup_github_pages
+    # use for repo url: git@github.com:charlotte-ruby/charlotte-ruby.github.com.git
+
+Now to generate the site and deploy to github:
+
     bundle exec rake gen_deploy
 
 This will put the generated content from \_deploy onto master and 
-push it github. You'll still need to add the modified files to the source 
-branch so they get saved to git (i.e. blog posts, static files, etc).
+push it github. You'll still need to push changes from the source 
+branch so they get saved to github.
