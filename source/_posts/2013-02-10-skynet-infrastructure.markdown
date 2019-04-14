@@ -13,4 +13,4 @@ categories: [talks]
 
 ## Slides ##
 
-Available on [speakerdeck](https://speakerdeck.com/toady00/skynet-infrastructure-opscode-chef)
+Available on [speakerdeck](https://speakerdeck.com/toady00/skynet-infrastructure-opscode-chef).
