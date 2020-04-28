@@ -1,0 +1,169 @@
+/*
+	========================================
+	LASTSUNDAY - PERSONAL BLOG THEME
+	========================================
+	
+	@author			: @avriqq
+	@version		: v1.1
+	@date-create	: 07/03/2012
+	@last-update	: 09/24/2014
+	@file-name		: responsive
+
+*/
+
+
+@media screen and (max-width: 992px){
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+}
+
+@media screen and (min-width: 768px){
+	/* NAVBAR */
+	.navbar-nav.navbar-right:last-child {
+		margin-right: 0; 
+	}
+}
+
+@media screen and (max-width: 767px){
+	body{
+		padding-top: 30px;
+	}
+
+	/* HOME SLIDER */
+	#home-slider .carousel-caption p{
+		display: none;
+	}
+
+	/* BREADCRUMB */
+	.breadcrumb{
+		text-align: left;
+	}
+
+	/* BLOG */
+	.heading-title-img{
+		height: 200px;
+		overflow: hidden;
+	}
+
+	.heading-title-img > img{
+		position: relative;
+		max-width: 100%;
+		height: auto;
+		-webkit-transform: translateY(-10%);
+		   -moz-transform: translateY(-10%);
+			-ms-transform: translateY(-10%);
+			 -o-transform: translateY(-10%);
+				transform: translateY(-10%);
+	}
+
+	.heading-title-img::after{
+		content: '';
+		position: absolute;
+		z-index: 1;
+		left: 0;
+		bottom: auto;
+		top: 0;
+		width: 100%;
+		min-height: 100%;
+		height: auto;
+		background-color: rgba(0,0,0,.35);
+	}
+
+	.blog-single-author{
+		position: absolute;
+		z-index: 2;
+	}
+
+	.blog-post-meta > li{
+		font-size: 13px;
+		line-height: 16px;
+	}
+
+	.blog-post-sharing h4{
+		margin-bottom: 15px;
+	}
+
+	/* COMMENT */
+	.comment ul ul{
+		margin-left: 20px;
+	}
+
+	.comment .comment-reply::before,
+	.comment .children::before{
+		content: '';
+		position: absolute;
+		left: -20px;
+		height: 100%;
+	}
+
+	.comment .comment-reply::after,
+	.comment .children::after{
+		content: '';
+		position: absolute;
+		left: -20px;
+		top: 45px;
+		width: 20px;
+	}
+
+	/* COPYRIGHT */
+	.copyright-left,
+	.copyright-right{
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 480px){
+	/* NAVBAR*/
+	.navbar-primary .navbar-brand img{
+		margin-top: -5px;
+		max-width: 125px;
+		height: auto;
+	}
+	
+	.navbar-secondary .navbar-brand img{
+		margin-top: -10px;
+		max-width: 170px;
+		height: auto;
+	}
+
+	/* HOME SLIDER */
+	#home-slider .carousel-caption{
+		display: none;
+	}
+
+	/* BLOG */
+	.heading-title-img{
+		height: 160px;
+		overflow: hidden;
+	}
+
+	.heading-title-img > img{
+		position: relative;
+		max-width: 100%;
+		height: auto;
+		-webkit-transform: translateY(0);
+		   -moz-transform: translateY(0);
+			-ms-transform: translateY(0);
+			 -o-transform: translateY(0);
+				transform: translateY(0);
+	}
+
+	.heading-title-img::after{
+		content: '';
+		position: absolute;
+		z-index: 1;
+		left: 0;
+		bottom: auto;
+		top: 0;
+		width: 100%;
+		min-height: 100%;
+		height: auto;
+		background-color: rgba(0,0,0,.35);
+	}
+
+	.blog-single-author{
+		position: absolute;
+		z-index: 2;
+	}
+}

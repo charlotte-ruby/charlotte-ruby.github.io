@@ -1,0 +1,334 @@
+/*
+	========================================
+	LASTSUNDAY - BLUE COLOR
+	========================================
+	
+	@author			: @avriqq
+	@version		: v1.1
+	@date-create	: 08/11/2012
+	@last-update	: 09/24/2014
+	@file-name		: blue
+
+*/
+
+/*
+	========================================
+	TABLE OF CONTENT
+	========================================
+
+	[1. GLOBAL STYLE]
+	[2. TYPHOGRAPHY]
+	[3. BUTTON]
+	[4. NAVBAR]
+	[5. SLIDER]
+	[6. BLOG POST ]
+		[6.1. BLOG SINGLE ]
+	[7. SERVICE ]
+	[8. MAP ]
+	[9. SIDEBAR ]
+	[10. PAGINATION ]
+	[11. FOOTER ]
+
+*/
+
+
+/*
+	============================
+	[1. GLOBAL STYLE]
+	============================
+*/
+a{
+	color: #5d9cec;
+}
+
+a:hover{
+	color: #4a89dc;
+}
+
+
+/*
+	============================
+	[2. TYPHOGRAPHY]
+	============================
+*/
+.heading-title h2::after{
+	content: '';
+	background-color: #4a89dc;
+}
+
+.text-secondary{
+	color: #4a89dc;
+}
+
+blockquote{
+	border-left-color: #4a89dc;
+}
+
+
+/*
+	============================
+	[3. BUTTON]
+	============================
+*/
+.btn-secondary{
+	color: #fff;
+	background-color: #5d9cec;
+	border-color: #4a89dc;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active,
+.open > .dropdown-toggle.btn-secondary{
+	color: #fff;
+	background-color: #4a89dc;
+	border-color: #4a89dc;
+}
+
+.btn-secondary:active,
+.btn-secondary.active,
+.open > .dropdown-toggle.btn-secondary{
+	background-image: none;
+}
+
+.btn-secondary.disabled,
+.btn-secondary[disabled],
+fieldset[disabled] .btn-secondary,
+.btn-secondary.disabled:hover,
+.btn-secondary[disabled]:hover,
+fieldset[disabled] .btn-secondary:hover,
+.btn-secondary.disabled:focus,
+.btn-secondary[disabled]:focus,
+fieldset[disabled] .btn-secondary:focus,
+.btn-secondary.disabled:active,
+.btn-secondary[disabled]:active,
+fieldset[disabled] .btn-secondary:active,
+.btn-secondary.disabled.active,
+.btn-secondary[disabled].active,
+fieldset[disabled] .btn-secondary.active{
+	background-color: #5d9cec;
+	border-color: #4a89dc;
+}
+
+.btn-secondary .badge{
+	color: #5d9cec;
+	background-color: #fff;
+}
+
+.bg-secondary{
+	color: #fff;
+	background-color: #5d9cec;
+}
+
+a.bg-secondary:hover{
+	background-color: #4a89dc;
+}
+
+.label-secondary{
+	background-color: #5d9cec;
+}
+
+.label-secondary[href]:hover,
+.label-secondary[href]:focus{
+	background-color: #4a89dc;
+}
+
+.progress-bar-secondary {
+	background-color: #4a89dc;
+}
+
+
+/*
+	============================
+	[4. NAVBAR]
+	============================
+*/
+.navbar-default .navbar-brand:hover{
+	color: #5d9cec;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #5d9cec;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+	color: #4a89dc;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+	background-color: #4a89dc;
+}
+
+.navbar-default .navbar-nav > li.dropdown.open > a{
+	background-color: #4a89dc;
+}
+
+.dropdown-menu > li > a::before{
+	background-color: #4a89dc;
+}
+
+.dropdown-menu > li > a:hover::before,
+.dropdown-menu > li > a:focus::before,
+.dropdown-menu > .active > a::before,
+.dropdown-menu > .active > a:hover::before,
+.dropdown-menu > .active > a:focus::before{
+	background-color: #4a89dc;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus{
+	color: #4a89dc;
+}
+
+
+/*
+	============================
+	[5. SLIDER]
+	============================
+*/
+#home-slider .carousel-caption h3 small{
+	background-color: rgba(74,137,220,.8);
+}
+
+
+/*
+	============================
+	[6. BLOG POST ]
+	============================
+*/
+.blog-post .meta-post-author::before{
+	content: '';
+	background-color: #5d9cec;
+}
+
+
+/*
+	============================
+	[6.1. BLOG SINGLE ]
+	============================
+*/
+.page-title .blog-post-date span:first-child{
+	color: #4a89dc;
+}
+
+.blog-post-tags .tag-list > li > a:hover,
+.blog-post-tags .tag-list > li > a:focus{
+	border: 1px solid #4a89dc;
+	background-color: #4a89dc;
+}
+
+.blog-post-sharing .share-list > li > a:hover,
+.blog-post-sharing .share-list > li > a:focus{
+	color: #4a89dc;
+}
+
+.blog-post-author .social-icon > li > a:hover,
+.blog-post-author .social-icon > li > a:focus{
+	background-color: #4a89dc;
+	border-color: #4a89dc;
+}
+
+
+/*
+	============================
+	[7. SERVICE ]
+	============================
+*/
+.service-container:hover > .service-icon .fa,
+.service-container:hover > .service-icon .glyphicon{
+	color: #4a89dc;
+}
+
+
+/*
+	============================
+	[8. MAP ]
+	============================
+*/
+.map-infowindow h3{
+	color: #4a89dc;
+}
+
+
+/*
+	============================
+	[9. SIDEBAR ]
+	============================
+*/
+.widget-sidebar .widget-title h3::before{
+	content: '';
+	background-color: #4a89dc;
+}
+
+.widget-sidebar.widget_recent_entries ul > li > a:hover{
+	text-decoration: none;
+	color: #4a89dc;
+}
+
+.widget-sidebar ul > li > a:hover,
+.widget-sidebar.widget_recent_entries ul > li > a:hover{
+	text-decoration: none;
+	color: #4a89dc;
+}
+
+.widget-sidebar.widget_tags ul > li > a:hover,
+.widget-sidebar.widget_tags ul > li > a:focus{
+	border: 1px solid #4a89dc;
+	background-color: #4a89dc;
+}
+
+
+/*
+	============================
+	[10. PAGINATION ]
+	============================
+*/
+.pagination > li > a,
+.pagination > li > span {
+	color: #4a89dc;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+	color: #4a89dc;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+	background-color: #4a89dc;
+	border-color: #4a89dc;
+}
+
+
+/*
+	============================
+	[11. FOOTER ]
+	============================
+*/
+.footer .widget-footer h2 span{
+	color: #4a89dc;
+}
+
+.footer .widget-footer .widget-title h3::before{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	width: 40px;
+	height: 1px;
+	background-color: #4a89dc;
+}
+
+.footer .widget-footer .social-icon > li > a:hover{
+	background-color: #4a89dc;
+}
