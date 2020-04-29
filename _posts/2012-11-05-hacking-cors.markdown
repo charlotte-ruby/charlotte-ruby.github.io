@@ -9,5 +9,4 @@ categories:
 
 Tonight we hacked on CORS!
 
-<a href="http://twitpic.com/bgj825" title="Hacking on CORS tonight! on Twitpic"><img src="http://twitpic.com/show/thumb/bgj825.jpg" width="150" height="150" alt="Hacking on CORS tonight! on Twitpic"></a>
-
+![Hacking on CORS tonight!](/assets/talks/hacking-on-cors-1.jpg)

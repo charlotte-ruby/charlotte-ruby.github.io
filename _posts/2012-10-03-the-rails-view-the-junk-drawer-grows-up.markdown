@@ -9,6 +9,6 @@ categories: talks
 
 [John Athayde](https://twitter.com/boboroshi), author of [The Rails View](http://www.therailsview.com) was kind enough to stop by and talk about Rails views. He covered 10 simple rules you can follow immediately to transform the way you write, think, and feel about Rails views. He also showed cutting edge techniques with SCSS, SVG imagery, and how to gemify your designs so they can be used easier across multiple apps.
 
-<a href="http://twitpic.com/bgj75o" title="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"><img src="http://twitpic.com/show/thumb/bgj75o.jpg" width="150" height="150" alt="Big thanks to @boboroshi for stopping by last night! Looking ... on Twitpic"></a>
-<a href="http://twitpic.com/bgj7ic" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/bgj7ic.jpg" width="150" height="150" alt="Share photos on twitter with Twitpic"></a>
+![@boboroshi advocating for gemifying your frontend](/assets/talks/boboroshi-rails-view-1.jpg)
 
+![@boboroshi talking about the Rails view](/assets/talks/boboroshi-rails-view-2.jpg)

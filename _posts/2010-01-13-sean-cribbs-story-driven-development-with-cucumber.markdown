@@ -11,9 +11,11 @@ categories: talks
 
 ## Video
 
-available on [vimeo](http://vimeo.com/8721145)
+<iframe src="https://player.vimeo.com/video/8721145" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p>
+<a href="https://vimeo.com/8721145">Sean Cribbs - Story-Driven Development with Cucumber</a></p>
 
 ## Slides
 
 available on [slideshare](http://www.slideshare.net/seancribbs/story-driven-development-with-cucumber)
-

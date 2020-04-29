@@ -7,6 +7,4 @@ comments: true
 categories: talks
 ---
 
-
-<a href="http://twitpic.com/b54lp0" title="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"><img src="http://twitpic.com/show/thumb/b54lp0.jpg" width="150" height="150" alt="Very grateful to have @jgehtland present and chat with us. Th... on Twitpic"></a>
-
+![Very grateful to have @jgehtland present and chat with us](/assets/talks/justin-gehtland-never-settle-1.jpg)

@@ -13,9 +13,8 @@ First up was [Jim Van Fleet](http://jimvanfleet.com/) of [@otherscreen](http://o
 
 Our other presentation was by [Ben Vangrift](http://ben.vandgrift.com/) from [Revelance](http://thinkrelevance.com/). Ben went over the benefits of pair programming and how to setup a shared environment that’ll work in either a co-located or remote setup.
 
-<a href="http://twitpic.com/9w1g8z" title="Jim and Ben doing a tmux demo"><img src="http://twitpic.com/show/thumb/9w1g8z.jpg" width="150" height="150" alt="Jim and Ben doing a tmux demo"></a>
+![Jim and Ben doing a tmux demo](/assets/talks/tmux-demo-1.jpg)
 
-## Slides ##
+## Slides
 
 available [here](http://ben.vandgrift.com/talks/remote-pairing.pdf)
-

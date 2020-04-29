@@ -9,5 +9,3 @@ categories:
 
 I have great news everyone! Engine Yard has agreed to sponsor Charlotte.rb.
 So if you’re around on Wednesdays, stop on in, learn something new, or show others what you got.
-
-
