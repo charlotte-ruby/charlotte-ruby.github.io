@@ -19,15 +19,19 @@ List of Puzzles, Ruby, and Rails resources: [iwanttolearnruby.com](http://iwantt
 
 ## Tutorials
 
-RailsApps tutorials and guides [railsapps.github.com/rails.html](http://railsapps.github.com/rails.html)
+RailsApps tutorials and guides [RailsApps](http://railsapps.github.io/)
 
-Excellent Beginner and Advanced level tutorials: [tutorials.jumpstartlab.com](http://tutorials.jumpstartlab.com)
+[Why's Poignant Guide to Ruby](https://poignant.guide/)
 
-[Why’s Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+Excellent Beginner and Advanced level tutorials: [jumpstartlab.com](http://tutorials.jumpstartlab.com)
 
-Great screencasts with a wide variety of topics: [codeschool.com](http://codeschool.com)
+## Screencasts
 
-Another subscription service covering Ruby Web-related technologies, including live coding sessions with experienced web developers. [peepcode.com](http://peepcode.com)
+An update to date subscription service that has new videos every week: [Drifting Ruby](https://www.driftingruby.com)
+
+Great collection screencasts with a wide variety of topics, including live coding sessions with experienced web developers: [pluralsight](https://www.pluralsight.com)
+
+An older collection, but one of the largest collections of free Ruby on Rails videos: [Railscasts](http://railscasts.com/)
 
 ## Tutoring
 
