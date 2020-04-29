@@ -1,9 +1,11 @@
 .bundle
 .DS_Store
-.sass-cache
 .gist-cache
+.jekyll-cache/
 .pygments-cache
+.sass-cache
 _deploy
+_site/*
 public
 sass.old
 source.old

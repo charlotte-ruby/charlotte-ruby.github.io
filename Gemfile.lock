@@ -71,6 +71,8 @@ GEM
     rubocop-jekyll (0.11.0)
       rubocop (>= 0.68.0, < 0.81.0)
       rubocop-performance (~> 1.2)
+    rubocop-md (0.3.2)
+      rubocop (~> 0.60)
     rubocop-performance (1.5.2)
       rubocop (>= 0.71.0)
     ruby-progressbar (1.10.1)
@@ -95,6 +97,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
   rubocop-jekyll (~> 0.11.0)
+  rubocop-md
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
