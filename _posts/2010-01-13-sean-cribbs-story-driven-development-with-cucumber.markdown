@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sean Cribbs - Story Driven Development With Cucumber"
+title: Sean Cribbs - Story Driven Development With Cucumber
 date: 2010-01-13
 author: Jared Pace
 comments: true

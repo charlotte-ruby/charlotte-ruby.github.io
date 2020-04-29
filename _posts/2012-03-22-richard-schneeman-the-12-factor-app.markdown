@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Richard Schneeman - the 12 Factor App"
+title: Richard Schneeman - the 12 Factor App
 author: Matt McMahand
-date: 2012-03-22 20:53
+date: 2012-03-22
 comments: true
 categories: talks
 ---

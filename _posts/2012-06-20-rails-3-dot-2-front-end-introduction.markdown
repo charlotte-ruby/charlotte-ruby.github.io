@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rails 3.2 Front-End Introduction"
+title: Rails 3.2 Front-End Introduction
 author: Matt McMahand
 date: 2012-06-20
 comments: true

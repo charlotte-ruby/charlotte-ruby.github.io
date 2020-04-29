@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hack Night"
-date: 2013-02-03 19:00
+title: Hack Night
+date: 2013-02-03
 author: Matt McMahand
 comments: true
 categories:

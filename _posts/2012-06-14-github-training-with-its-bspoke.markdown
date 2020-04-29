@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Github Training With It's Bspoke"
+title: Github Training With It's Bspoke
 date: 2012-06-14
 author: Denny Abraham
 comments: true

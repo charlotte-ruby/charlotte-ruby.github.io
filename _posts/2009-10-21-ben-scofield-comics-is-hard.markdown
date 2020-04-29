@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ben Scofield - Comics Is Hard"
+title: Ben Scofield - Comics Is Hard
 date: 2009-10-21
 author: Jared Pace
 comments: true

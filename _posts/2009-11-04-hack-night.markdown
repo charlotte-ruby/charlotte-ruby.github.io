@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hack Night"
+title: Hack Night
 date: 2009-11-04
 author: Jared Pace
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aaron Bedra - Metrics Magic"
+title: Aaron Bedra - Metrics Magic
 author: Jared Pace
 date: 2010-02-16
 categories: talks

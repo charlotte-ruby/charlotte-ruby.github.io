@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing Our New Sponsor - Engine Yard"
+title: Announcing Our New Sponsor - Engine Yard
 date: 2009-11-05
 author: Jared Pace
 comments: true

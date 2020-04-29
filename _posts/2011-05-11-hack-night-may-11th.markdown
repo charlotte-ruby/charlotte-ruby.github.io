@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hack Night - May 11th"
+title: Hack Night - May 11th
 author: Lake Denman
 date: 2011-05-11
 comments: true

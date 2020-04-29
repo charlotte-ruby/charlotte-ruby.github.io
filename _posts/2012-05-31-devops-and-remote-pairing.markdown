@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevOps and Remote Pairing"
+title: DevOps and Remote Pairing
 author: Matt McMahnad
 date: 2012-05-31
 comments: true

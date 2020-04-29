@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hypermedia APIs with webmachine and ROAR"
+title: Hypermedia APIs with webmachine and ROAR
 author: Matt McMahand
 date: 2012-11-14
 comments: true
