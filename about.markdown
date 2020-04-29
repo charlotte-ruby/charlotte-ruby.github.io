@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About
+author: Matt McMahand
+comments: false
+sharing: true
+footer: false
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You’ve reached the home of the Charlotte Ruby Users Group or cltrb for short. This site is currently a work in progress and is actively being developed by cltrb.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We’re a group of local Ruby enthusiasts who try to get together twice a month for lightning talks or a hack night. Check out our [meetup page](https://www.meetup.com/charlotte-rb/) or follow [@cltrb](http://twitter.com/cltrb) on twitter for more info.
