@@ -11,7 +11,7 @@ git clone git@github.com:charlotte-ruby/charlotte-ruby.github.com.git
 cd charlotte-ruby.github.com
 git checkout master
 bundle
-bundle exec jekyll s
+bundle exec jekyll s -l
 ```
 
 At this point you should be able to see preview the site at
