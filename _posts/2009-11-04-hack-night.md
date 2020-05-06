@@ -4,7 +4,7 @@ title: Hack Night
 date: 2009-11-04
 author: Jared Pace
 comments: true
-categories:
+categories: [hack-night]
 ---
 
 Mark your calendars, we’ll circulate more details as the date gets closer. RSVP now.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional Programming in Ruby with Lambdas
-author: Matt McMand
+author: Matt McMahand
 date: 2019-06-17
 comments: true
 categories: [talks]
