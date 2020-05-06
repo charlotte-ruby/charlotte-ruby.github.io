@@ -1,0 +1,11 @@
+AllCops:
+  Exclude:
+    - "_site/**/*"
+
+inherit_from: .rubocop_todo.yml
+
+require:
+  - rubocop-jekyll
+  - rubocop-md
+inherit_gem:
+  rubocop-jekyll: .rubocop.yml

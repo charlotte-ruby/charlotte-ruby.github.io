@@ -1,0 +1,13 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v1.2.3
+    hooks:
+      - id: trailing-whitespace
+  - repo: https://github.com/mattlqx/pre-commit-ruby
+    rev: v1.3.1
+    hooks:
+      - id: rubocop
+  - repo: https://github.com/jumanjihouse/pre-commit-hooks
+    rev: 2.0.0
+    hooks:
+      - id: markdownlint
