@@ -17,6 +17,9 @@ jobs:
       with:
         ruby-version: 2.6
 
+    - name: bundle
+      run: bundle
+
     - name: Rubocop run
       run: |
         bash -c "
