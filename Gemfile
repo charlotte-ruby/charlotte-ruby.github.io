@@ -11,8 +11,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.0"
 
-gem "rubocop-jekyll", "~> 0.11"
+gem 'rubocop-jekyll', github: 'invalidusrname/rubocop-jekyll', branch: 'master'
 gem "rubocop-md", "~> 0.3"
+gem "code-scanning-rubocop", "~> 0.3"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

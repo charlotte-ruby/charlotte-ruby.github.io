@@ -1,9 +1,20 @@
+GIT
+  remote: https://github.com/invalidusrname/rubocop-jekyll.git
+  revision: 2748cf640775c8b7b5e8aa3953535fe9dd57a945
+  branch: master
+  specs:
+    rubocop-jekyll (0.11.0)
+      rubocop (>= 0.68.0, < 0.85.1)
+      rubocop-performance (~> 1.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.1)
+    code-scanning-rubocop (0.3.0)
+      rubocop (~> 0.82.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
@@ -62,17 +73,14 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.4)
     rouge (3.20.0)
-    rubocop (0.80.1)
+    rubocop (0.82.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.7.0.1)
       rainbow (>= 2.2.2, < 4.0)
       rexml
       ruby-progressbar (~> 1.7)
-      unicode-display_width (>= 1.4.0, < 1.7)
-    rubocop-jekyll (0.11.0)
-      rubocop (>= 0.68.0, < 0.81.0)
-      rubocop-performance (~> 1.2)
+      unicode-display_width (>= 1.4.0, < 2.0)
     rubocop-md (0.3.2)
       rubocop (~> 0.60)
     rubocop-performance (1.6.1)
@@ -88,18 +96,19 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2020.1)
       tzinfo (>= 1.0.0)
-    unicode-display_width (1.6.1)
+    unicode-display_width (1.7.0)
     wdm (0.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  code-scanning-rubocop (~> 0.3)
   jekyll (~> 4.0)
   jekyll-archives
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
-  rubocop-jekyll (~> 0.11)
+  rubocop-jekyll!
   rubocop-md (~> 0.3)
   tzinfo (~> 1.2)
   tzinfo-data
