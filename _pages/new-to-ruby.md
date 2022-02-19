@@ -5,7 +5,7 @@ comments: false
 sharing: true
 footer: false
 permalink: /new-to-ruby/
-image: "/assets/images/screenshot.jpg"
+image: "assets/images/hello.png"
 ---
 
 Here’s a few links to getting started with Ruby and the Ruby on Rails Framework
