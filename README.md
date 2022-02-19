@@ -1,4 +1,4 @@
-# charlotte-ruby.github.com
+# charlotte-ruby.github.io
 
 Charlotte Ruby User Group Website
 
@@ -7,8 +7,8 @@ Charlotte Ruby User Group Website
 something
 
 ```sh
-git clone git@github.com:charlotte-ruby/charlotte-ruby.github.com.git
-cd charlotte-ruby.github.com
+git clone git@github.com:charlotte-ruby/charlotte-ruby.github.io.git
+cd charlotte-ruby.github.io
 git checkout master
 bundle
 bundle exec jekyll s -l
