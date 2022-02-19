@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0"
+gem 'webrick'
 
 gem 'rubocop-jekyll', github: 'invalidusrname/rubocop-jekyll', branch: 'master'
 gem "rubocop-md", "~> 0.3"
