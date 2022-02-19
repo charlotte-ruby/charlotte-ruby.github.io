@@ -6,13 +6,15 @@
 	<p class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
+	{% if post.categories.size > 0 %}
 	<small class="d-block text-muted">
-		In <span class="catlist">
-		{% for category in post.categories %}
-		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-		{% endfor %}
-		</span>
+		  In <span class="catlist">
+		  {% for category in post.categories %}
+		  <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+		  {% endfor %}
+		  </span>
 	</small>
+	{% endif %}
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>

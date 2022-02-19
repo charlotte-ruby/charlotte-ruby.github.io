@@ -4,7 +4,7 @@ title: Hacking CORS
 date: 2012-11-05
 author: matt
 comments: true
-categories:
+categories:  [hack-night]
 ---
 
 Tonight we hacked on CORS!
