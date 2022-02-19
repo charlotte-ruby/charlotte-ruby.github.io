@@ -18,14 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Charlotte Ruby User Group
-email: team@charlotte-ruby.org
+
+
+name: Charlotte Ruby User Group
+baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   A friendly group of Ruby programmers around the Charlotte metro area!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://charlotteruby.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cltrb
+disqus: 'demowebsite'
+email: team@charlotte-ruby.org
+favicon: 'assets/images/favicon.ico'
 github_username: charlotte-ruby
+logo: 'assets/images/logo.png'
+mailchimp-list: ''
+permalink: /:title/
+title: Charlotte Ruby User Group
+twitter_username: cltrb
+url: "http://charlotte-ruby.github.io"
+
+include: ["_pages"]
 
 # Build settings
 theme:
@@ -52,3 +62,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
