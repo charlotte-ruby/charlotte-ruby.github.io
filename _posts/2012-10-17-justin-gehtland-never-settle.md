@@ -8,4 +8,4 @@ categories: talks
 image: assets/talks/justin-gehtland-never-settle-1.jpg
 ---
 
-Very grateful to have @jgehtland present and chat with us!
+Very grateful to have [@jgehtland](https://twitter.com/jgehtland) present and chat with us!
