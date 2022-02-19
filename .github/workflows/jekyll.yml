@@ -20,4 +20,3 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.JEKYLL_PAT }}
-          RUBY_OPT: -W0
