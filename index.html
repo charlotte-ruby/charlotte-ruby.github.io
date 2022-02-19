@@ -8,6 +8,26 @@ description: "Charlotte area group of Ruby Developers"
 
 <div class="container">
 {% if page.url == "/" %}
+  {% for page in site.pages %}
+    {% if page.tags contains "sticky" %}
+    <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+        <div class="pl-4 pr-0 h-100 tofront">
+            <div class="row justify-content-between">
+                <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                    <h1 class="mb-3">{{page.title}}</h1>
+                    <p class="mb-3 lead">
+                        {{ page.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                    </p>
+                    <a href="{{site.baseurl}}{{page.url}}" class="btn btn-dark">Read More</a>
+                </div>
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ page.image }});">
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
@@ -137,26 +157,6 @@ description: "Charlotte area group of Ruby Developers"
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
             <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">
-            </div>
-        </div>
-    </div>
-</div>
-{% endif %}
-{% endfor %}
-
-{% for page in site.pages %}
-{% if page.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-    <div class="pl-4 pr-0 h-100 tofront">
-        <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{page.title}}</h1>
-                <p class="mb-3 lead">
-                    {{ page.excerpt | strip_html | strip_newlines | truncate: 136 }}
-                </p>
-                <a href="{{site.baseurl}}{{page.url}}" class="btn btn-dark">Read More</a>
-            </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ page.image }});">
             </div>
         </div>
     </div>
