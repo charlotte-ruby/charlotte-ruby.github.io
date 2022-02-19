@@ -25,6 +25,8 @@ RailsApps tutorials and guides [RailsApps](http://railsapps.github.io/)
 
 Excellent Beginner and Advanced level tutorials: [jumpstartlab.com](http://tutorials.jumpstartlab.com)
 
+Want to learn more about Exceptions on Ruby?: [exceptionalcreatures.com](https://www.exceptionalcreatures.com)
+
 ## Screencasts
 
 An update to date subscription service that has new videos every week: [Drifting Ruby](https://www.driftingruby.com)
