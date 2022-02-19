@@ -37,6 +37,21 @@ url: "http://charlotte-ruby.github.io"
 
 include: ["_pages"]
 
+authors:
+    matt:
+      name:           Matt McMahand
+      site:           https://invalid8.com
+      avatar:         https://en.gravatar.com/userimage/3816903/d99228112ca91cbe242fbcabcc11c96c.jpeg
+      bio:            I'm a software engineer who likes creating problems almost as much as I like solving them
+      email:          matt@invalid8.com
+      twitter:        https://twitter.com/invalidusrname
+    charlotte-ruby:
+      name:           Charlotte Ruby
+      site:           https://charlotte-ruby.github.io
+      avatar:         https://en.gravatar.com/userimage/3816903/292c15ab4ab0ecf1b438dcdb2a041354.png
+      bio:            I'm the Charlotte Ruby bot!
+      twitter:        https://twitter.com/cltrb
+
 # Build settings
 theme:
 plugins:
@@ -68,8 +83,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: charlotte-ruby
+      avatar: https://en.gravatar.com/userimage/3816903/292c15ab4ab0ecf1b438dcdb2a041354.png
   - scope:
       path: "_pages"
     values:

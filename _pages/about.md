@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-author: Matt McMahand
+author: matt
 comments: false
 sharing: true
 footer: false
 permalink: /about/
-image: "/assets/images/screenshot.jpg"
+image: assets/images/cltrb-codes.jpg
 ---
 
 You’ve reached the home of the Charlotte Ruby Users Group, or cltrb for short. This site is currently a work in progress and is actively [being developed](https://github.com/charlotte-ruby/charlotte-ruby.github.io/).

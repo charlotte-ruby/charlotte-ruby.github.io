@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skynet Infrastructure
-author: Matt McMahand
+author: matt
 date: 2013-01-16
 comments: true
 categories: [talks]

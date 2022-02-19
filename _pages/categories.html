@@ -15,7 +15,6 @@ permalink: "/categories"
         {% for post in pages_list %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
-         
             {% include main-loop-card.html %}
           {% endif %}
         {% endif %}

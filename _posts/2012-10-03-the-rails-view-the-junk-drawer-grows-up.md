@@ -2,7 +2,7 @@
 layout: post
 title: "The Rails View: The Junk Drawer Grows Up"
 date: 2012-10-03
-author: Matt McMahand
+author: matt
 comments: true
 categories: talks
 image: assets/talks/boboroshi-rails-view-1.jpg

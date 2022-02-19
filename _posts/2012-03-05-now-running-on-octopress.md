@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now Running on Octopress
-author: Matt McMahand
+author: matt
 date: 2012-03-05
 comments: true
 categories:

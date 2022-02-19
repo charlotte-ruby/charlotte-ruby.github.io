@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Hack Night
-author: Matt McMahand
+author: matt
 date: 2020-05-05
 comments: true
 categories: [hack-night]

@@ -2,7 +2,7 @@
 layout: post
 title: Hacking CORS
 date: 2012-11-05
-author: Matt McMahand
+author: matt
 comments: true
 categories:
 ---

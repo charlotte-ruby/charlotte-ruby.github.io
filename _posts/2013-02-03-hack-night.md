@@ -2,7 +2,7 @@
 layout: post
 title: Hack Night
 date: 2013-02-03
-author: Matt McMahand
+author: matt
 comments: true
 categories: [hack-night]
 image: assets/talks/2013-02-03-hacknight-1.jpg
