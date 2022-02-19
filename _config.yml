@@ -33,7 +33,7 @@ mailchimp-list: ''
 permalink: /:title/
 title: Charlotte Ruby User Group
 twitter_username: cltrb
-url: "http://charlotte-ruby.github.io"
+url: "https://charlotte-ruby.github.io"
 
 include: ["_pages"]
 
