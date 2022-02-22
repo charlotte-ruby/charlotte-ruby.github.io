@@ -10,7 +10,7 @@ image: assets/talks/tmux-demo-1.jpg
 
 A two-fisted presentation this month!
 
-First up was [Jim Van Fleet](http://www.jimvanfleet.com/) of otherscreen and mocksup fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using [Chef](https://www.chef.io/products/chef-infra) and [Vagrant](http://vagrantup.com/).
+First up was [Jim Van Fleet](http://www.jimvanfleet.com/) of otherscreen and mocksup fame to talk about the DevOps movement. He covered the principles, ideas, and methods behind automating your infrastructure using [Chef](https://www.chef.io/products/chef-infra) and [Vagrant](https://wwww.vagrantup.com/).
 
 Our other presentation was by [Ben Vangrift](http://ben.vandgrift.com/) from [Revelance](http://thinkrelevance.com/). Ben went over the benefits of pair programming and how to setup a shared environment that’ll work in either a co-located or remote setup.
 
