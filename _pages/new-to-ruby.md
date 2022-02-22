@@ -48,4 +48,4 @@ Charlotte Ruby Meetup Page: [meetup.com/charlotte-rb](http://meetup.com/charlott
 
 Charlotte Ruby Slack Channel: [charlotte-ruby.slack.com](https://charlotte-ruby.slack.com)
 
-Not around the Charlotte Area and looking for user groups nearby? Check out [rubyusergroups.org](http://rubyusergroups.org)
+Not around the Charlotte Area and looking for user groups nearby? Check [here](https://www.ruby-lang.org/en/community/user-groups/)
