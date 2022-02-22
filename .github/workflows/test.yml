@@ -13,7 +13,5 @@ jobs:
         bundler-cache: true
     - name: Install dependencies
       run: bundle
-    - name: Run test
-      run: ruby -Ilib exe/rake
     - name: Run tests
       run: bundle exec rake check_links
