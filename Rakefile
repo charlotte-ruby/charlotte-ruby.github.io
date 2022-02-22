@@ -6,7 +6,7 @@ task :check_links do
     :checks_to_ignore => ["ScriptCheck"],
     :allow_hash_href  => true,
     :enforce_https    => false,
-    :log_level        => :debug,
+    :log_level        => :info,
   }
 
   puts 'Checking userguide links...'
