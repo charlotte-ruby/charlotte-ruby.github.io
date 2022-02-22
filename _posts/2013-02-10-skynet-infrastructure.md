@@ -8,7 +8,7 @@ categories: [talks]
 image: assets/talks/brandon-dennis-skynet-1.jpg
 ---
 
-[Brandon Dennis](http://twitter.com/_toady00) gave a talk on how to automate your infrastucture using [Chef](http://www.opscode.com/chef).
+[Brandon Dennis](https://twitter.com/_toady00) gave a talk on how to automate your infrastucture using [Chef](https://www.chef.io/products/chef-infra).
 
 ## Slides
 

@@ -4,7 +4,7 @@ title: Current Projects
 comments: false
 sharing: true
 footer: false
-permalink: /current-projects/
+permalink: /current-projects
 ---
 
 Here are a few of the projects that have come from members of our group:

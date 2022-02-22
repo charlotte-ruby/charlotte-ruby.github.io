@@ -15,6 +15,7 @@ gem 'webrick'
 gem 'rubocop-jekyll', github: 'invalidusrname/rubocop-jekyll', branch: 'master'
 gem "rubocop-md", "~> 0.3"
 gem "code-scanning-rubocop", "~> 0.3"
+gem 'pry'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -37,3 +38,6 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+gem "html-proofer", "~> 4.0.0.rc3"
+gem "rake", "~> 13.0"

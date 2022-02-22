@@ -4,7 +4,7 @@ title: New to Ruby?
 comments: false
 sharing: true
 footer: false
-permalink: /new-to-ruby/
+permalink: /new-to-ruby
 image: "assets/images/hello.png"
 ---
 
@@ -14,7 +14,7 @@ Here’s a few links to getting started with Ruby and the Ruby on Rails Framewor
 
 Try Ruby in your browser, no installing required: [tryruby.org](http://www.tryruby.org)
 
-Offical Ruby Quickstart: [ruby-lang.org](http://ruby-lang.org)
+Offical Ruby Quickstart: [ruby-lang.org](https://www.ruby-lang.org/en/)
 
 List of Puzzles, Ruby, and Rails resources: [iwanttolearnruby.com](http://iwanttolearnruby.com)
 
@@ -38,13 +38,11 @@ An older collection, but one of the largest collections of free Ruby on Rails vi
 
 ## Tutoring
 
-Looking for a tutor? Try [rubytutor.org](http://rubytutor.org)
-
 Getting kids involved with Ruby: [ruby4kids.com](http://ruby4kids.com)
 
 ## User Groups
 
-Official Charlotte Ruby Homepage: [charlotteruby.org](http://charlotteruby.org)
+Official Charlotte Ruby Homepage: [charlotte-ruby.github.io](http://charlotte-ruby.github.io)
 
 Charlotte Ruby Meetup Page: [meetup.com/charlotte-rb](http://meetup.com/charlotte-rb)
 
