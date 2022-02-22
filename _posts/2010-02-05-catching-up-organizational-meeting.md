@@ -17,4 +17,4 @@ Some of us met at the end of the last meeting and had such a good discussion abo
 
 I hope you’ll consider turning out. Please let me know if the night of the week is bad for you– note that this meeting is on Tuesday, not on Wednesday. Most people said they could make our holiday party on Tuesday, so I figured we’d try that.
 
-The meetup will be hosted at [Amélie’s French Bakery](http://www.meetup.com/charlotte-rb/venue/843220/?eventId=12598547&popup=true) on March 9th at 6:30PM. Please take the time to let us know if you can make it or not [here](http://www.meetup.com/charlotte-rb/calendar/12598547)
+The meetup will be hosted at [Amélie’s French Bakery](https://goo.gl/maps/8JGTsywqArBXQQJeA) on March 9th at 6:30PM. Please take the time to let us know if you can make it or not [here](http://www.meetup.com/charlotte-rb/calendar/12598547)

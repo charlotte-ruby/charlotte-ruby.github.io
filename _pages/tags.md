@@ -8,6 +8,9 @@ permalink: "/tags"
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
+        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>Sticky FIXME</span></h4>
+
+        {{ sortedTags }}
             
         {% for tag in site.tags %} 
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>{{ tag[0] }}</span></h4>

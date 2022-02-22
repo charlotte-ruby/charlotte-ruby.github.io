@@ -186,16 +186,16 @@ description: "Charlotte area group of Ruby Developers"
 
               {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
-                <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
+                    <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
-                <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+                    <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}/">{{ page }}</a></li>
                 {% endif %}
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}/">Next &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}
