@@ -38,5 +38,5 @@ gh pr
 
 ## Deploying changes
 
-TODO
+Deployments happen automatically via Github Actions on the master branch
 
