@@ -77,9 +77,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     method_source (1.0.0)
-    mini_portile2 (2.8.0)
-    nokogiri (1.13.9)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.13.9-arm64-darwin)
       racc (~> 1.4)
     parallel (1.22.1)
     parser (3.1.2.1)
@@ -96,7 +94,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    regexp_parser (2.6.0)
+    regexp_parser (2.6.1)
     rexml (3.2.5)
     rouge (4.0.0)
     rubocop (0.85.0)
@@ -134,7 +132,7 @@ GEM
     zeitwerk (2.6.6)
 
 PLATFORMS
-  ruby
+  arm64-darwin-22
 
 DEPENDENCIES
   code-scanning-rubocop (~> 0.3)
@@ -155,4 +153,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.25
+   2.3.26
