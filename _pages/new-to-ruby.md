@@ -12,7 +12,7 @@ Here’s a few links to getting started with Ruby and the Ruby on Rails Framewor
 
 ## Quickstarts
 
-Try Ruby in your browser, no installing required: [tryruby.org](http://www.tryruby.org)
+Try Ruby in your browser, no installing required: [tryruby](https://try.ruby-lang.org/)
 
 Offical Ruby Quickstart: [ruby-lang.org](https://www.ruby-lang.org/en/)
 
