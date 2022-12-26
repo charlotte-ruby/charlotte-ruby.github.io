@@ -12,7 +12,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0"
 gem 'webrick'
 
-gem 'rubocop-jekyll', github: 'invalidusrname/rubocop-jekyll', branch: 'master'
+gem 'rubocop-jekyll'
 gem "rubocop-md", "~> 0.3"
 gem "code-scanning-rubocop", "~> 0.3"
 gem 'pry'
