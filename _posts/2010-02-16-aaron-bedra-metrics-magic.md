@@ -17,4 +17,4 @@ categories: talks
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6epnU3bLXqeoIx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
-<div style="margin-bottom:5px"><a href="//www.slideshare.net/cltrb/metrics-magic" title="Aaron Bedra - Metrics Magic" target="_blank">Aaron Bedra - Metrics Magic</a></div>
+<div style="margin-bottom:5px"><a href="https://www.slideshare.net/cltrb/metrics-magic" title="Aaron Bedra - Metrics Magic" target="_blank">Aaron Bedra - Metrics Magic</a></div>
