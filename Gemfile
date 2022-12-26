@@ -13,7 +13,7 @@ gem "jekyll", "~> 4.3"
 gem 'webrick'
 
 gem 'rubocop-jekyll'
-gem "rubocop-md", "~> 0.3"
+gem "rubocop-md", "~> 1.1"
 gem "code-scanning-rubocop", "~> 0.3"
 gem 'pry'
 
