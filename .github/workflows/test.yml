@@ -11,6 +11,7 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
+        rubygems: latest
     - name: Install dependencies
       run: bundle
     - name: Build site
