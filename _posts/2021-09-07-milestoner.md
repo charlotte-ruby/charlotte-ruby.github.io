@@ -5,6 +5,7 @@ author: matt
 date: 2021-09-07
 comments: true
 categories: [talks]
+tag: gems
 image: "assets/talks/2021-09-07-milestoner.png"
 ---
 
