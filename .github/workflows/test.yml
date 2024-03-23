@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
@@ -15,3 +15,6 @@ jobs:
         run: bundle
       - name: Build site
         run: bundle exec jekyll build
+      - name: Check Links
+        run: bundle exec rake check_links
+        continue-on-error: true
