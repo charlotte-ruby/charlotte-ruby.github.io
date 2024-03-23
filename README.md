@@ -1,11 +1,10 @@
 # charlotte-ruby.github.io
 
 Charlotte Ruby User Group Website
+
 [![Ruby](https://github.com/charlotte-ruby/charlotte-ruby.github.io/actions/workflows/test.yml/badge.svg)](https://github.com/charlotte-ruby/charlotte-ruby.github.io/actions/workflows/test.yml)
 
 ## Getting Started
-
-something
 
 ```sh
 git clone git@github.com:charlotte-ruby/charlotte-ruby.github.io.git
