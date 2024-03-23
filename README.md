@@ -1,6 +1,7 @@
 # charlotte-ruby.github.io
 
 Charlotte Ruby User Group Website
+[![Ruby](https://github.com/charlotte-ruby/charlotte-ruby.github.io/actions/workflows/test.yml/badge.svg)](https://github.com/charlotte-ruby/charlotte-ruby.github.io/actions/workflows/test.yml)
 
 ## Getting Started
 
@@ -39,4 +40,3 @@ gh pr
 ## Deploying changes
 
 Deployments happen automatically via Github Actions on the master branch
-
