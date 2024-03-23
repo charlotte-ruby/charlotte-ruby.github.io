@@ -38,4 +38,4 @@ gh pr
 
 ## Deploying changes
 
-Deployments happen automatically via Github Actions on the master branch
+Deployments happen automatically via [Github Actions](https://github.com/charlotte-ruby/charlotte-ruby.github.io/deployments) on the master branch
