@@ -1,4 +1,8 @@
-require 'html_proofer'
+# frozen_string_literal: true
+
+require "html_proofer"
+require "base64"
+require "jekyll"
 
 desc "Checks html files looking for dead links"
 task :check_links do
@@ -9,7 +13,9 @@ task :check_links do
     :log_level        => :info,
   }
 
-  puts 'Checking userguide links...'
+  Jekyll.logger.info "Checking userguide links..."
+
+  FileUtils.mkdir("./_site")
 
   HTMLProofer.check_directory("./_site", options).run
 end

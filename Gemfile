@@ -9,13 +9,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem "csv", "~> 3.3"
 gem "jekyll", "~> 4.3"
-gem 'webrick'
+gem "webrick"
 
-gem 'rubocop-jekyll'
-gem "rubocop-md", "~> 1.2"
+gem "base64"
 gem "code-scanning-rubocop", "~> 0.3"
-gem 'pry'
+gem "pry"
+gem "rubocop-jekyll"
+gem "rubocop-md", "~> 1.2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -24,9 +26,9 @@ gem 'pry'
 group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
-  gem "jekyll-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
