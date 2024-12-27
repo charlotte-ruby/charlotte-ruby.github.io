@@ -15,7 +15,8 @@ task :check_links do
 
   Jekyll.logger.info "Checking userguide links..."
 
-  FileUtils.mkdir("./_site")
+  dir = File.expand_path("./_site")
 
-  HTMLProofer.check_directory("./_site", options).run
+  FileUtils.mkdir_p(dir)
+  HTMLProofer.check_directory(dir, options).run
 end
