@@ -18,3 +18,4 @@ jobs:
       - name: Check Links
         run: bundle exec rake check_links
         continue-on-error: true
+
