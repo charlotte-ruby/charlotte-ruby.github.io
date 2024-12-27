@@ -24,8 +24,6 @@ RailsApps tutorials and guides [RailsApps](http://railsapps.github.io/)
 
 [Why's Poignant Guide to Ruby](https://poignant.guide/)
 
-Excellent Beginner and Advanced level tutorials: [jumpstartlab.com](http://tutorials.jumpstartlab.com)
-
 Want to learn more about Exceptions on Ruby?: [exceptionalcreatures.com](https://www.exceptionalcreatures.com)
 
 ## Screencasts
