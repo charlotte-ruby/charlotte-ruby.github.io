@@ -1,4 +1,7 @@
 name: build-and-run-tests
+permissions:
+  contents: read
+  pull-requests: write
 
 on: [push, pull_request]
 
