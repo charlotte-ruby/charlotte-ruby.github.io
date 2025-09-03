@@ -817,7 +817,7 @@ div.a2a_full_footer {display:none;}
         }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1198px) {
         a.discord-button span {
                 display: none;
         }
