@@ -803,7 +803,9 @@ div.a2a_full_footer {display:none;}
 	 }
  }
 
+
 .discord-button {
+        padding: 0.22rem;
         border-radius: 3px;
         font-weight: 500;
         color: #fff !important;
@@ -812,5 +814,11 @@ div.a2a_full_footer {display:none;}
 
         &:hover {
                 background-color: rgb(71, 82, 196);
+        }
+}
+
+@media (max-width: 1200px) {
+        a.discord-button span {
+                display: none;
         }
 }
