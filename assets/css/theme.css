@@ -788,12 +788,12 @@ a.a2a_i, i.a2a_i, .a2a_menu a.a2a_i:visited, .a2a_menu a.a2a_more {
 div.a2a_full_footer {display:none;}
 @media (min-width: 1920px) {
 	html {font-size:17px;}
-	.container, .container-lg {    
+	.container, .container-lg {
 	 width: 1280px;
 	 max-width: 1280px;
 	 }
-	 h6,.h6 { 
-		 font-size: 1.1rem; 
+	 h6,.h6 {
+		 font-size: 1.1rem;
 	 }
 	 article {
 		 font-size:1.24rem;
@@ -802,4 +802,15 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
+
+.discord-button {
+        border-radius: 3px;
+        font-weight: 500;
+        color: #fff !important;
+        background-color: rgb(88, 101, 242);
+        transition: background-color .17s ease,color .17s ease;
+
+        &:hover {
+                background-color: rgb(71, 82, 196);
+        }
+}
