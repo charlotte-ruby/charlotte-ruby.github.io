@@ -41,5 +41,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
 
-gem "html-proofer", "~> 5.0.10"
+gem "html-proofer", "~> 5.1.1"
 gem "rake", "~> 13.3"
