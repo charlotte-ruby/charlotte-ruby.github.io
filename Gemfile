@@ -42,4 +42,4 @@ end
 gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
 
 gem "html-proofer", "~> 5.2.1"
-gem "rake", "~> 13.3"
+gem "rake", "~> 13.4"
