@@ -57,7 +57,7 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    io-console (0.8.2)
+    io-console (0.9.4)
     io-event (1.19.4)
     jekyll (4.4.1)
       addressable (~> 2.4)
@@ -121,7 +121,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    pry (0.16.0)
+    pry (0.16.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
       reline (>= 0.6.0)
@@ -133,7 +133,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     regexp_parser (2.10.0)
-    reline (0.6.3)
+    reline (0.7.0)
       io-console (~> 0.5)
     rexml (3.4.4)
     rouge (4.7.0)
